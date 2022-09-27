@@ -11,6 +11,7 @@ namespace GithubPractice
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World !!");
+            Console.WriteLine("Today is 27-09-20222");
         }
     }
 }
